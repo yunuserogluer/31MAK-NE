@@ -6,7 +6,7 @@ print("""
 
 sayi1 = int(input("İlk sayıyı gir: "))
 sayi2 = int(input("İkinci sayıyı gir: "))
-sor =   input("""Hangi işlemi yapacan MAL CEMRE?
+sor =   input("""Hangi işlemi yapacan slk?
 A = Toplama
 B = Çıkarma
 C = Bölme
